@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi, I'm Claudine!
-- I work as a junior fullstack developer at Steady Media
+- I work as a Junior Fullstack Developer at Steady Media
