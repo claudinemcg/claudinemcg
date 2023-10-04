@@ -1,4 +1,4 @@
-<img align="right" src="" width="20%">
+<img align="right" src="CMcG_banner.png" width="20%">
 
 <!--
 **claudinemcg/claudinemcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
