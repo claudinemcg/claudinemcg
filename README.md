@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **claudine.mcgowan@gmail.com**
 
-<img align="right" src="computer_ales-nesetril.png" width="50%">
+
 <h3 align="left">Connect with me:</h3>
   <p align="left">
     <a href="https://twitter.com/claudinemcg" target="blank">
@@ -19,6 +19,7 @@
   </a>
   
   </p>
+  <img align="right" src="computer_ales-nesetril.png" width="50%">
 
 <h3 align="left">Technologies:</h3>
    <p align="left"> 
@@ -82,13 +83,10 @@
   </a>  
 </p>
 
-
-
-
-
+<hr >
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=claudinemcg&show_icons=true&locale=en" alt="claudinemcg" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=claudinemcg&show_icons=true&locale=en" alt="claudinemcg" />
 </p>
 
 
