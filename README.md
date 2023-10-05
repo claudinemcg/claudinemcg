@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Claudine</h1>
+<h1 align="left">Hi 👋, I'm Claudine</h1>
 
 - 🔭 I’m currently working at **Steady Media** as a junior developer
 
