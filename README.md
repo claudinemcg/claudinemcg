@@ -1,4 +1,4 @@
-<img align="right" src="computer_ales-nesetril.png" width="20%">
+<img align="right" src="computer_ales-nesetril.png" width="50%">
 
 <h1 align="center">Hi 👋, I'm Claudine</h1>
 <h3 align="center">Frontend Developer</h3>
