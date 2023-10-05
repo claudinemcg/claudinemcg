@@ -87,7 +87,7 @@
 <hr >
 
 <p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=claudinemcg&theme=darcula&show_icons=true" alt="claudinemcg" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=claudinemcg&theme=prussian&show_icons=true" alt="claudinemcg" />
 </p>
 
 
