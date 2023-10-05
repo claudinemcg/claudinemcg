@@ -90,4 +90,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=claudinemcg&show_icons=true&locale=en" alt="claudinemcg" />
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudinemcg)](https://github.com/claudinemcg/github-readme-stats)
 
