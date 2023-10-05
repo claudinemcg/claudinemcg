@@ -2,9 +2,9 @@
 
 <h1 align="left">Hi 👋, I'm Claudine</h1>
 
-- 🔭 I’m currently working at **Steady Media** as a junior developer
+- 🔭 I work at **Steady Media** as a **junior developer**
 
-- 🌱 I’m currently learning **React and Typescript**
+- 🌱 I’m currently learning **React** and **Typescript**
 
 - 📫 How to reach me **claudine.mcgowan@gmail.com**
 
