@@ -1,14 +1,14 @@
-<img align="right" src="computer_ales-nesetril.png" width="50%">
+
 
 <h1 align="center">Hi 👋, I'm Claudine</h1>
-<h3 align="center">I'm a Frontend Developer</h3>
 
-- 🔭 I’m currently working at **Steady Media**
+- 🔭 I’m currently working at **Steady Media** as a junior developer
 
 - 🌱 I’m currently learning **React and Typescript**
 
 - 📫 How to reach me **claudine.mcgowan@gmail.com**
 
+<img align="right" src="computer_ales-nesetril.png" width="50%">
 <h3 align="left">Connect with me:</h3>
   <p align="left">
     <a href="https://twitter.com/claudinemcg" target="blank">
