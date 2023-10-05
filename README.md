@@ -10,6 +10,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" src="computer_ales-nesetril.png" width="50%">
   <p align="left">
     <a href="https://twitter.com/claudinemcg" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="claudinemcg"       height="30" width="40" />
@@ -19,7 +20,7 @@
   </a>
   
   </p>
-  <img align="right" src="computer_ales-nesetril.png" width="50%">
+  
 
 <h3 align="left">Technologies:</h3>
    <p align="left"> 
