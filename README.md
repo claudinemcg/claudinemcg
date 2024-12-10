@@ -36,6 +36,7 @@
      <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> 
      <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> 
   </a> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="Rails" width="50" height="50"/>
   </p>
     
 <h3 align="left">Frameworks | Libraries:</h3>
